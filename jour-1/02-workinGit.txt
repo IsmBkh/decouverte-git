@@ -78,6 +78,18 @@ une fois finis : GIT ADD + GIT COMMIT
 
 =>Pour revenir dans le passer git chekout + numéro de sauvegarde obtenu via dit git log --oneline 
 
+---------------------------------------------
+
+Exo : 
+
+Je vais crée l'onglet BLOG pour le présenter au client 
+==> si validé par le client OK 
+==> Si non validé supprimé grace a une BRANCHE GIT pr revenir en arrière
+
+
+
+
+
 
 
 
