@@ -38,6 +38,7 @@ Exo 1 :
     => accueil 
     => Blog
     => Contact
+
 Exo 2 : 
 => suivre notre travail avec GIT cmd a taper : 
 
@@ -51,6 +52,22 @@ Exo 2 :
 
 dans le fichier index.html 
 ajouter en dessous de la barre de menu => un caroussel qui contient 4 photos de votre choix 
+
+Exo 3 : 
+
+Créer deux colonnes 
+
+1ere colonne contien un formulaire 
+champ saisir un email 
+champ saisir un commentaire 
+bouton de soumission 
+
+2eme colonne 
+google map 
+
+une fois finis : GIT ADD + GIT COMMIT 
+
+
 
 
 
