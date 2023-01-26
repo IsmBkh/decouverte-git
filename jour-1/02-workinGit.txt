@@ -1,0 +1,60 @@
+Un fois qu'on a installer et parametré Git 
+Premiere chose a faire lorsqu'on veux travailler sur un projet avec git  : 
+
+CREATION DUN REPOSITORY => dépot => dossier dans lequel Git va stocker l'évolution de notre projet 
+
+
+étape 1 => lancer l'explorer windows 
+        => aller dans le dossier qui contien mon projet 
+        => barre d'adresse de l'explorer => écrire "CMD" au debut de l'adresse (path) Espace + entrer 
+        => ouvrir un terminal dans le dossier C:\Users\stagiaire\Desktop\COURS - ISMAIL BAKHTAOUI\1-informatique\07-GIT\git>
+
+=> lancer un terminal à la racine de notre projet 
+=> dossier root de notre projet 
+
+------------------------------------------------------------
+
+étape 2 => C:\Users\stagiaire\Desktop\COURS - ISMAIL BAKHTAOUI\1-informatique\07-GIT\git>
+        => a la suite de cette ligne taper : 
+        => git init 
+
+init = initialized empty Git repository in C:\Users\stagiaire\Desktop\COURS - ISMAIL BAKHTAOUI\1-informatique\07-GIT\git>
+créer un repository => dossier qui va contenir le verssionning de mon projet 
+
+===> NB le repository est invisible => pour le voir il faut taper \.git à la suite de notre dossier dans la barre d'adresse (path)
+    => ne pas écrire dans ce fichier 
+    => c'est via le terminal que l'on va realiser les modif dans le dossier .git 
+    => attention le dossier .git n'existe QUE dans le dossier dans lequel on a réaliser git init 
+
+--------------------------------------------------------------
+
+====> cas pratique <====
+
+Exo 1 : 
+=>créer un fichier index.html 
+=>installer bootstrap 
+=>créer un menu (Navbar)
+=>3 liens 
+    => accueil 
+    => Blog
+    => Contact
+Exo 2 : 
+=> suivre notre travail avec GIT cmd a taper : 
+
+=> git add index.html
+=> git commit -m "creation de la barre de menu avec bootstrap" 
+
+[master (root-commit) 7871b14] creation de la barre de menu avec bootstrap
+ 1 file changed, 32 insertions(+)
+ create mode 100644 git-entrainement/index.html
+
+
+dans le fichier index.html 
+ajouter en dessous de la barre de menu => un caroussel qui contient 4 photos de votre choix 
+
+
+
+
+
+
+

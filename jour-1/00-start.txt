@@ -1,0 +1,79 @@
+support : 
+https//formation.webdevpro.net/git
+login :
+password : 
+
+COURS SUR GITHUB
+
+------------------------------
+
+GIT / GITHUB 
+
+=> outil qui permet le verssionning 
+=> projet informatique => écrire du code => le mettre en commun avec son équipe 
+
+=> Fortes chances de modifier le mauvais fichier et plus rien ne marche
+    ===> Pour y remedier on doit faire des copies de dossiers chaque jour pour sécuriser son travail 
+
+(La sauvegarde manuel est idéal pour des petits projets ou des projets avec 1 seul developpeur) 
+
+=> Pour des gros projets (Ex: Linux) => milliers de fichiers + très nombreux developpeur
+
+
+Linus Torval à inventer le projet GIT 
+(ne pas confondre avec GITHUB)
+
+GIT est donc un outils qui permet de répondre à 4 questions : 
+
+- Quel fichier ?  
+- Qui l'a modifier ?
+- Quand il a été modifier ? 
+- Pourquoi il a été modifier ? 
+
+=> Quand on a un projet on va pouvoir répondre à ces 4 questions sur tous les fichiers du projet en permanence 
+
+------------------------------
+
+GIT est un outil que l'on peut utiliser de plein de manière différentes 
+
+- ligne de commande 
+- logiciel avec des boutons
+- Visual studio code => module installé par défaut 
+
+Pour ce cours : comme on a fait pour le SQL :
+
+SQlite => visual studio code 
+MySQL  => php MyAdmin 
+
+On va donc dabord voir la méthode en ligne de commande et ensuite le module visual studio code 
+
+------------------------------
+
+WINDOWS INVITE COMMANDE : 
+
+Outil qui permet d'executer des programmes 
+=> gérer l'ordinateur 
+=> recherche 
+
+Pour ouvrir la console => menu démarrer => taper cmd 
+
+(BIEN RESPECTER LES ESPACES)
+
+quelques exemples de commande dans l'invite dans cmd : 
+==> dir => permet de connaitre le contenu du dossier en cours 
+==> cls => clear vider l'invite de commande 
+==> cd  => change directory => change de dossier (on ne met pas cette commande tte seule)
+    ==> commande cd parametres : 
+        - cd .. => remonte dans le dossier parent 
+        - cd <nom-dossier> => aller dans le dossier <nom-dossier>
+
+==> tree     => commande qui permet de connaitre l'arborescance de l'ordi (tous les dossiers de l'ordi)
+==> tree /F  =>
+==> tree /A  =>
+==> dir => Affiche la liste des fichiers et des sous-répertoires d’un répertoire
+
+Les drapeaux influencent la maniere dont le binaire est executer 
+
+
+
+
