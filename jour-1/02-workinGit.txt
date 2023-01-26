@@ -67,6 +67,18 @@ google map
 
 une fois finis : GIT ADD + GIT COMMIT 
 
+--------------------------------------------
+    ====> POUR RESUMER <====
+
+=>Pour sauvegarder : git add . + git commit -m ""
+
+=>Pour voir notre historique : gitK
+
+=>Pour voir nos sauvegarde git log --oneline
+
+=>Pour revenir dans le passer git chekout + numéro de sauvegarde obtenu via dit git log --oneline 
+
+
 
 
 
