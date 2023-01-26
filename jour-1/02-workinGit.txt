@@ -86,7 +86,9 @@ Je vais crée l'onglet BLOG pour le présenter au client
 ==> si validé par le client OK 
 ==> Si non validé supprimé grace a une BRANCHE GIT pr revenir en arrière
 
+POUR CREE UNE BRANCHE : 
 
+git branch nomchoisit
 
 
 
