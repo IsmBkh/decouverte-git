@@ -1,0 +1,25 @@
+======> EXO GIT <======
+
+
+1ere étape : git add --all 
+             git commit -m "start nouvelle branch"
+
+
+=> Créer une nouvelle branch page-contacter
+=> positionner sur cette branch
+
+=> Créer le fichier contact.html 
+=> menu entête de page 
+=> en dessous du menu formulaire 
+    => champ saisir l'email 
+    => menu déroulant pour choisir un service => commercial / informatique 
+    => champ dans lequel vous pouvez saisir un commentaire multyilingue 
+    => bouton soumission 
+
+GIT : 
+
+=> En registrer la version sur la branch 
+=> git add --all 
+=> git commit -m "start nouvelle branch"
+
+=> pour finir fusionner la branch page-contact avec la branch master 

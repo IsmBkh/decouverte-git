@@ -41,7 +41,10 @@ git branch -M --help ==> permet de connaitre le mode d'emploi de GIT
 
 git branch ===> permet de savoir on est sur quel branch
 
-git add --all ===> toutes les sauvegardes git 
-
+git add --all                               ===> toutes les sauvegardes git 
+git commit -m "fin de la branch page-blog"  ===> On sauvegarde notre branch
+git checkout master                         ===> on reviens sur la page principal 
+git merge page-blog                         ===> 
+git branch -d page-blog                     ===> 
 
 
