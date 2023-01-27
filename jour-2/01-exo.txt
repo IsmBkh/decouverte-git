@@ -28,4 +28,19 @@ GIT :
     ==>git merge page-contact
 
 
+---------------------------------------
+
+Suite exo : 
+
+En utilisant visual studio code : 
+créer une branch mention-légale 
+
+créer une nouvelle page mention legale.html 
+remplir de texte 
+modifier les footer de toutes les pages 
+
+git add git commit (menu à gauche) 
+
+revenir sur la branch master 
+fusionner la branch master avec la branch mention-legale 
 
