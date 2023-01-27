@@ -2,7 +2,8 @@
 
 
 1ere étape : git add --all 
-             git commit -m "start nouvelle branch"
+             git commit -m "start nouvelle-branch"
+             git checkout 
 
 
 => Créer une nouvelle branch page-contacter
