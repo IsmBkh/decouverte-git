@@ -90,6 +90,15 @@ POUR CREE UNE BRANCHE :
 
 git branch nomchoisit
 
+===> le client n'a pas validé ??
+
+Je reviens à ma branche = 
+    1==>git branch 
+    2==>git checkout master 
+
+-----------------------------------------------
+
+
 
 
 

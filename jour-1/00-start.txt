@@ -1,5 +1,5 @@
 support : 
-https//formation.webdevpro.net/git
+https//formation.webdevpro.net/git/
 login :
 password : 
 
